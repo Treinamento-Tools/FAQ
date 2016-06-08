@@ -1,6 +1,5 @@
-## FAQ
-# Repositório de Perguntas e Respostas
+## FAQ: Repositório de Perguntas e Respostas
 
-Dúvidas ? Crie uma issue para o @brunojensen ou para o @yurikilian
+Dúvidas ? Crie uma <a href="https://github.com/Treinamento-Tools/FAQ/issues">issue</a> para o @brunojensen ou para o @yurikilian
 
 Utilize os labels: Java, Web, Ajuda! ou Pergunta
